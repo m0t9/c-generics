@@ -1,7 +1,5 @@
 # c-generics
 
-## 🌟 I express my gratitude to [Ivan](https://github.com/imachug) for his great contribution!
-
 ## ❓ What is this repository about
 C language does not support generics and templates. This repository introduces one of the possible (and convenient) ways to implement generic containers using C preprocessing macros.
 
@@ -86,4 +84,4 @@ int main() {
 2. Carrots
 3. Milk
 ```
-
+## 🌟 I express my gratitude to [Ivanq](https://github.com/imachug) for his great contribution!
