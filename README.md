@@ -84,4 +84,4 @@ int main() {
 2. Carrots
 3. Milk
 ```
-## 🌟 I express my gratitude to [Ivanq](https://github.com/imachug) for his great contribution!
+## 🌟 I express my gratitude to [purplesyringa](https://github.com/purplesyringa) for her great contribution!
